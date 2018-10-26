@@ -9,13 +9,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        //New Code
-
-        //Second Code
-        //Third Code
-
-        //4. Change
-        
-        //5. Change
+        //Cleanup
     }
 }
