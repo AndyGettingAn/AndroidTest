@@ -8,10 +8,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        
-        println(getSum(2,3))
-
-
+        ///Change
     }
 
     fun getSum(num1: Int, num2: Int): Int {
